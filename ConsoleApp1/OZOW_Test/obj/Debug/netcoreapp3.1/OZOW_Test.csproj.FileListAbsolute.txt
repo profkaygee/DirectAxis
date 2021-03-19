@@ -1,0 +1,12 @@
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\bin\Debug\netcoreapp3.1\OZOW_Test.exe
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\bin\Debug\netcoreapp3.1\OZOW_Test.deps.json
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\bin\Debug\netcoreapp3.1\OZOW_Test.runtimeconfig.json
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\bin\Debug\netcoreapp3.1\OZOW_Test.runtimeconfig.dev.json
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\bin\Debug\netcoreapp3.1\OZOW_Test.dll
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\bin\Debug\netcoreapp3.1\OZOW_Test.pdb
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\obj\Debug\netcoreapp3.1\OZOW_Test.csprojAssemblyReference.cache
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\obj\Debug\netcoreapp3.1\OZOW_Test.AssemblyInfoInputs.cache
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\obj\Debug\netcoreapp3.1\OZOW_Test.AssemblyInfo.cs
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\obj\Debug\netcoreapp3.1\OZOW_Test.dll
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\obj\Debug\netcoreapp3.1\OZOW_Test.pdb
+C:\Users\KagisoM\source\repos\ConsoleApp1\OZOW_Test\obj\Debug\netcoreapp3.1\OZOW_Test.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\KagisoM\source\repos\TelerikAspNetCoreApp3\TelerikAspNetCoreApp3\obj\Debug\netcoreapp3.1\TelerikAspNetCoreApp3.csprojAssemblyReference.cache
+C:\Users\KagisoM\source\repos\TelerikAspNetCoreApp3\TelerikAspNetCoreApp3\obj\Debug\netcoreapp3.1\TelerikAspNetCoreApp3.AssemblyInfoInputs.cache
+C:\Users\KagisoM\source\repos\TelerikAspNetCoreApp3\TelerikAspNetCoreApp3\obj\Debug\netcoreapp3.1\TelerikAspNetCoreApp3.AssemblyInfo.cs
+C:\Users\KagisoM\source\repos\TelerikAspNetCoreApp3\TelerikAspNetCoreApp3\obj\Debug\netcoreapp3.1\TelerikAspNetCoreApp3.csproj.CoreCompileInputs.cache
+C:\Users\KagisoM\source\repos\TelerikAspNetCoreApp3\TelerikAspNetCoreApp3\obj\Debug\netcoreapp3.1\TelerikAspNetCoreApp3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KagisoM\source\repos\TelerikAspNetCoreApp3\TelerikAspNetCoreApp3\obj\Debug\netcoreapp3.1\TelerikAspNetCoreApp3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KagisoM\source\repos\TelerikAspNetCoreApp3\TelerikAspNetCoreApp3\obj\Debug\netcoreapp3.1\TelerikAspNetCoreApp3.RazorAssemblyInfo.cache
+C:\Users\KagisoM\source\repos\TelerikAspNetCoreApp3\TelerikAspNetCoreApp3\obj\Debug\netcoreapp3.1\TelerikAspNetCoreApp3.RazorAssemblyInfo.cs

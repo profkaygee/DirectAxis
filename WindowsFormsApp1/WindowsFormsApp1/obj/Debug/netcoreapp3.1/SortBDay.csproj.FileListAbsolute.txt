@@ -1,0 +1,15 @@
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\SortBDay.exe
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\SortBDay.deps.json
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\SortBDay.runtimeconfig.json
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\SortBDay.runtimeconfig.dev.json
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\SortBDay.dll
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\SortBDay.pdb
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\SortBDay.csprojAssemblyReference.cache
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\SortBDay.Form1.resources
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\SortBDay.csproj.GenerateResource.cache
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\SortBDay.AssemblyInfoInputs.cache
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\SortBDay.AssemblyInfo.cs
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\SortBDay.csproj.CoreCompileInputs.cache
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\SortBDay.dll
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\SortBDay.pdb
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\SortBDay.genruntimeconfig.cache

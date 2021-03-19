@@ -1,0 +1,7 @@
+C:\Users\KagisoM\source\repos\EmailSending\EmailSending\bin\Debug\EmailSending.exe.config
+C:\Users\KagisoM\source\repos\EmailSending\EmailSending\bin\Debug\EmailSending.exe
+C:\Users\KagisoM\source\repos\EmailSending\EmailSending\bin\Debug\EmailSending.pdb
+C:\Users\KagisoM\source\repos\EmailSending\EmailSending\obj\Debug\EmailSending.csprojAssemblyReference.cache
+C:\Users\KagisoM\source\repos\EmailSending\EmailSending\obj\Debug\EmailSending.csproj.CoreCompileInputs.cache
+C:\Users\KagisoM\source\repos\EmailSending\EmailSending\obj\Debug\EmailSending.exe
+C:\Users\KagisoM\source\repos\EmailSending\EmailSending\obj\Debug\EmailSending.pdb

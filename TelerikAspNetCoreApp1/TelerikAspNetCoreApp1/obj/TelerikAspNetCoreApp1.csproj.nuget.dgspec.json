@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KagisoM\\source\\repos\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KagisoM\\source\\repos\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KagisoM\\source\\repos\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1.csproj",
+        "projectName": "TelerikAspNetCoreApp1",
+        "projectPath": "C:\\Users\\KagisoM\\source\\repos\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1.csproj",
+        "packagesPath": "C:\\Users\\KagisoM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KagisoM\\source\\repos\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KagisoM\\source\\repos\\TelerikAspNetCoreApp1\\NuGet.Config",
+          "C:\\Users\\KagisoM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2020\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Telerik.UI.for.AspNet.Core": {
+              "target": "Package",
+              "version": "[2020.2.513, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

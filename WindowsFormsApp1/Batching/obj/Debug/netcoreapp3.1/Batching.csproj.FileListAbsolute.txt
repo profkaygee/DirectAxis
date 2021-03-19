@@ -1,0 +1,13 @@
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\bin\Debug\netcoreapp3.1\Batching.exe
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\bin\Debug\netcoreapp3.1\Batching.deps.json
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\bin\Debug\netcoreapp3.1\Batching.runtimeconfig.json
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\bin\Debug\netcoreapp3.1\Batching.runtimeconfig.dev.json
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\bin\Debug\netcoreapp3.1\Batching.dll
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\bin\Debug\netcoreapp3.1\Batching.pdb
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\obj\Debug\netcoreapp3.1\Batching.csprojAssemblyReference.cache
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\obj\Debug\netcoreapp3.1\Batching.AssemblyInfoInputs.cache
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\obj\Debug\netcoreapp3.1\Batching.AssemblyInfo.cs
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\obj\Debug\netcoreapp3.1\Batching.csproj.CoreCompileInputs.cache
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\obj\Debug\netcoreapp3.1\Batching.dll
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\obj\Debug\netcoreapp3.1\Batching.pdb
+C:\Users\KagisoM\source\repos\WindowsFormsApp1\Batching\obj\Debug\netcoreapp3.1\Batching.genruntimeconfig.cache

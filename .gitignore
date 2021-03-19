@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BCX_Assessment/BCX_Assessment/bin/Debug/netcoreapp3.1
+/BCX_Assessment/.vs/BCX_Assessment/DesignTimeBuild
