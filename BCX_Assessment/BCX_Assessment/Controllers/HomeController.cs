@@ -1,4 +1,5 @@
 ﻿using BCX_Assessment.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -20,6 +21,11 @@ namespace BCX_Assessment.Controllers
 
         public IActionResult Index()
         {
+            if (HttpContext.Session.GetString("LoggedUser") == null)
+            {
+                return RedirectToAction("Login", "Account");
+            }
+
             return View();
         }
 

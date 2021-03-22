@@ -1,0 +1,9 @@
+C:\Users\KagisoM\source\repos\BCX_Assessment\BCX_Library\bin\Debug\netcoreapp3.1\BCX_Library.deps.json
+C:\Users\KagisoM\source\repos\BCX_Assessment\BCX_Library\bin\Debug\netcoreapp3.1\BCX_Library.dll
+C:\Users\KagisoM\source\repos\BCX_Assessment\BCX_Library\bin\Debug\netcoreapp3.1\BCX_Library.pdb
+C:\Users\KagisoM\source\repos\BCX_Assessment\BCX_Library\obj\Debug\netcoreapp3.1\BCX_Library.csprojAssemblyReference.cache
+C:\Users\KagisoM\source\repos\BCX_Assessment\BCX_Library\obj\Debug\netcoreapp3.1\BCX_Library.AssemblyInfoInputs.cache
+C:\Users\KagisoM\source\repos\BCX_Assessment\BCX_Library\obj\Debug\netcoreapp3.1\BCX_Library.AssemblyInfo.cs
+C:\Users\KagisoM\source\repos\BCX_Assessment\BCX_Library\obj\Debug\netcoreapp3.1\BCX_Library.csproj.CoreCompileInputs.cache
+C:\Users\KagisoM\source\repos\BCX_Assessment\BCX_Library\obj\Debug\netcoreapp3.1\BCX_Library.dll
+C:\Users\KagisoM\source\repos\BCX_Assessment\BCX_Library\obj\Debug\netcoreapp3.1\BCX_Library.pdb

@@ -4,3 +4,6 @@
 
 /BCX_Assessment/BCX_Assessment/bin/Debug/netcoreapp3.1
 /BCX_Assessment/.vs/BCX_Assessment/DesignTimeBuild
+/BCX_Assessment/BCX_Api/bin/Debug/netcoreapp3.1
+/BCX_Assessment/.vs/BCX_Assessment/config
+/BCX_Assessment/BCX_Api/obj
